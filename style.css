@@ -1,6 +1,19 @@
 body{
-    background-color: blue;
+    background-color: rgb(107, 167, 202);
     color: white;
-    font-family: Tahoma;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+input{
+    color: black;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
 }
